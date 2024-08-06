@@ -14,7 +14,7 @@ public class JakartaEE8Resource {
     @GET
     public Response ping(){
         return Response
-                .ok("ping")
+                .ok("ping patzcuaro")
                 .build();
     }
 }
